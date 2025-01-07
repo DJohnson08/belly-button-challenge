@@ -1,4 +1,4 @@
-This module used the Belly Button Biodiversity dataset to find microbes found in human belly buttons. The dataset shows that only a few microbial species (OTU) were found in people, while the rest were much less common.
+This module used the Belly Button Biodiversity dataset to find microbes found in human belly buttons. The dataset shows that only a few microbial species (OTU) were found in 70% people, while the rest were much less common.
 
 This data set also takes a sample from a set group of people, Im guessing if we expanded and used multiple samples from people who lived different lifestyles the dataset would look different. 
 
